@@ -7,6 +7,6 @@ Here how it looks in the chat:
 
 You can not only delete, but also restore messages using the button before the message.
 
-I am new to creating mods and am just started to learn the Fabric API. You can point me to any of my mistakes and leave me ways to fix them using Pull requests, I will continue to develop the mod.
+I am new at creating mods and im just started to learn Fabric API, you can point me to any of my mistakes and leave me ways to fix them using Pull requests, I will continue to develop the mod.
 
 [AT THE MOMENT THE MOD WORKS ALMOST NORMALLY ONLY IN SINGLE PLAYER, NOT ALL MESSAGES ARE REGISTERED AND GO INTO THE CHAT HISTORY]
