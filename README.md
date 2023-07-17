@@ -1,5 +1,5 @@
 # ClientboundChatManager
-A simple mod that allows you to remove messages from your chat. [DEMO]
+A simple mod that allows you to remove messages from your chat.
 
 Here how it looks in the chat:
 
@@ -9,4 +9,4 @@ You can not only delete, but also restore messages using the button before the m
 
 I am new at creating mods and im just started to learn Fabric API, you can point me to any of my mistakes and leave me ways to fix them using Pull requests, I will continue to develop the mod.
 
-[AT THE MOMENT THE MOD WORKS ALMOST NORMALLY ONLY IN SINGLE PLAYER, NOT ALL MESSAGES ARE REGISTERED AND GO INTO THE CHAT HISTORY]
+At the moment mod works almost normally only in single player, not all messages are registered and can be collected into the chat history.
